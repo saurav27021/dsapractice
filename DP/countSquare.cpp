@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+// question 1277 leetcode link = https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-20
 #include <bits/stdc++.h>
 using namespace std;
 class solution{
